@@ -96,7 +96,7 @@ def tarot_reading():
     art.tprint("TAROT", "wizard")
     arcana_choice = input("Enter 'major' for major arcana cards only or 'minor' for all cards: ")
     number_of_cards = input("Enter 1 for one card pull or 3 for three card past-present-future spread: ")
-    input("Press enter to draw the cards")
+    input("Focus on your question and press enter to draw the cards")
     if arcana_choice == 'major':
         cards = major_arcana
     elif arcana_choice == 'minor':
