@@ -1,0 +1,1 @@
+([('Tarot', '/Users/plilya/Documents/GitHub/tarot/dist/Tarot', 'EXECUTABLE')],)
